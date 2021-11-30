@@ -1,0 +1,14 @@
+.container {
+  margin-top: 50px;
+}
+.footer {
+  text-align: center;
+  background-color: rgb(27, 23, 23);
+  color: rgb(255, 254, 248);
+  padding: 20px;
+  font-weight: 600;
+  margin-top: 30px;
+}
+.display-4 {
+  color: rgb(88, 130, 192);
+}
